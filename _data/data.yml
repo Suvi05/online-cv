@@ -165,23 +165,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Servlet and JSP
+        level: 75%
 
-      - name: Angular
-        level: 98%
+      - name: Spring Framework
+        level: 85%
 
+       - name: Hibernate
+        level: 80%
+        
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: JUnit and Mockito
         level: 60%
+        
+      - name: Flutter
+        level: 80%
+        
+      - name: Data Structure and Algorithm
+        level: 75%        
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Sumit Verma</a>
